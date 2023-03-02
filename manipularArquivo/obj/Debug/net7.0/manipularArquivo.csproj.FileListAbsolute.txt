@@ -1,0 +1,15 @@
+C:\Users\kelso\DIO\manipularArquivo\bin\Debug\net7.0\manipularArquivo.exe
+C:\Users\kelso\DIO\manipularArquivo\bin\Debug\net7.0\manipularArquivo.deps.json
+C:\Users\kelso\DIO\manipularArquivo\bin\Debug\net7.0\manipularArquivo.runtimeconfig.json
+C:\Users\kelso\DIO\manipularArquivo\bin\Debug\net7.0\manipularArquivo.dll
+C:\Users\kelso\DIO\manipularArquivo\bin\Debug\net7.0\manipularArquivo.pdb
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.csproj.AssemblyReference.cache
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.AssemblyInfoInputs.cache
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.AssemblyInfo.cs
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.csproj.CoreCompileInputs.cache
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.dll
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\refint\manipularArquivo.dll
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.pdb
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\manipularArquivo.genruntimeconfig.cache
+C:\Users\kelso\DIO\manipularArquivo\obj\Debug\net7.0\ref\manipularArquivo.dll
